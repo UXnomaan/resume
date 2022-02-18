@@ -131,7 +131,9 @@
                 "React Table",
                 "React Query",
                 "React Context",
-                "React DnD"
+                "React DnD",
+                "JavaScript"
+       
             ]
         },
         {
@@ -139,7 +141,8 @@
             "keywords": [
                 "Node",
                 "Express",
-                "Serverless"
+                "Serverless",
+                "AWS"
             ]
         },
         {
